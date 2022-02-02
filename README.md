@@ -1,6 +1,9 @@
 
   README Generator
 
+  Link to walkthrough Video:
+  https://watch.screencastify.com/v/shGtYvI665n7NEjQRUYZ
+  
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]
 
   ## Table of Content
