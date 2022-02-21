@@ -1,5 +1,5 @@
 
-  Express.js Note Taker
+  README Generator
 
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]
 
@@ -13,24 +13,24 @@
   * [Questions](#questions)
   
   ## Description:
-  This is an application that displays notes. You are able to enter and save new notes, as well as delete notes.
+  This is a command line application that uses inquirer to prompt you with questions, which the answers you submit will be used to generate a readme file.
   
   ## Installation:
-  Clone the repository and run npm i express.
+  npm install and npm i inquirer to get the proper dependencies
   
   ## Usage:
-  You can use "npm start" to start the express application locally. The application is also deployed at HEROKU.
+  In the terminal run "node index.js" to begin the command line application, then answer the prompted questions.
 
   ## Licenses:
-  MIT License
+  Mozilla Public License 2.0
   * (https://opensource.org/licenses/MPL-2.0)
   * (https://opensource.org/licenses/MPL-2.0)
   
   ## Contribution:
-  Use as you wish.
+  No contributions needed, but feel free to clone the repo and use as you wish!
   
   ## Test:
-  No testing
+  No testing is required but you can run the application with node index.js to see it work!
  
   ## Questions:
   * Username: Jaaarsh
